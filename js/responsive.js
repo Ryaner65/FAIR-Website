@@ -1,5 +1,5 @@
-const mobileWebAnwendung=true;
-console.log("Version 0002")
+const mobileWebAnwendung=false;
+console.log("Version 0005")
 
 const homeInhalt = [
     document.getElementById("laptop_0").innerHTML,
@@ -24,7 +24,7 @@ window.addEventListener('DOMContentLoaded', event => {
 });
 
 const mobileAnwendungHTML=`
-<iframe src="https://script.google.com/a/macros/saw-office.net/s/AKfycbw_faHfieWbT5DT27mqHUdBWWfWmvq-DT5sD-0UpnAZJ-X9FrpggoqAFVaHgSa2E1LG1g/exec?player_code=59584dc0-40f3-445c-9399-432612046c90&buttonClicked=Chef+Ingenieur" title="bestellen" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+<iframe src="https://script.google.com/a/macros/saw-office.net/s/AKfycbw_faHfieWbT5DT27mqHUdBWWfWmvq-DT5sD-0UpnAZJ-X9FrpggoqAFVaHgSa2E1LG1g/exec" title="bestellen" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
     Dein Browser unterstützt diese Anwendung nicht.
 </iframe>
 `
