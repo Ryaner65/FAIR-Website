@@ -1,5 +1,5 @@
 const mobileWebAnwendung=true;
-console.log("Version 0001")
+console.log("Version 0002")
 
 const homeInhalt = [
     document.getElementById("laptop_0").innerHTML,
@@ -16,8 +16,11 @@ const mobile = [0, 1, 3, 2, 4, 5]
 window.addEventListener('DOMContentLoaded', event => {
     if (mobileWebAnwendung)
         inhaltAnpassenWebAnwendung();
-    else
+    else {
+        inhaltAnpassenWebseite();
         window.onresize = inhaltAnpassenWebseite;
+    }
+    
 });
 
 const mobileAnwendungHTML=`
