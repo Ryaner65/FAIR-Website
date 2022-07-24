@@ -20,10 +20,10 @@ include("include/header.php");
         <section class="page-section fadeInDown" >
             <div class="container">                
                 <div class="row">
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-6 " id="laptop_0">
                         <img src="assets/img/lernen.png" width="80%"/>
                     </div>
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-6 " id="laptop_1">
                        <h2> Warum ??</h2><br><br>
                         <p style="font-size: 1.5em;">
 						Weil unsere neuesten und agilen<br><br>
@@ -38,7 +38,7 @@ include("include/header.php");
         <section class="page-section" >
             <div class="container">                
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6" id="laptop_2">
 						<p style="font-size: 1.5em;">
 							In dem wir uns für jedem einzelnen Teilnehmer<br><br>
 die Zeit nehmen, um ihm zuzuhören, <br><br>
@@ -46,7 +46,7 @@ mit Ihm ausprobieren, Ihm Klarheit bringen</p>
                         
 
                     </div>
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-6" id="laptop_3">
                         <img src="assets/img/clever_lernen.png" width="75%" />
                     </div>
 				</div>                
@@ -55,13 +55,13 @@ mit Ihm ausprobieren, Ihm Klarheit bringen</p>
         <section class="page-section" >
             <div class="container">                
                 <div class="row">
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-6 " id="laptop_4">
 						<div class="text-center">
 						<img src="assets/img/kernkompetenz.png" width="80%"/>
 						</div>
                       
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6" id="laptop_5">
 						<p style="font-size: 1.5em;"><br><br>
 						 Unsere Erfahrenen <br><div style="padding-left: 10%; font-size: 1.5em;">Dozenten<br> Coaches<br> Berater</div><br><br>
                                         <p style="font-size: 1.5em;">Alle samt erfahren <br><div style="padding-left: 10%; font-size: 1.5em;">in Ihrem</div><br> <b style="padding-left: 12%; font-size: 1.5em;">Tun</b>
