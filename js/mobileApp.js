@@ -1,5 +1,5 @@
-const mobileWebAnwendung=false;
-console.log("Version 0005")
+const mobileWebAnwendung=true;
+console.log("Version 0012")
 
 const homeInhalt = [
     document.getElementById("laptop_0").innerHTML,
