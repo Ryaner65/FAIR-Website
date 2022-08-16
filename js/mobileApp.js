@@ -1,10 +1,12 @@
-console.log("Version 0019")
+console.log("Version 0020")
 
 const responsiveMobile = "responsiveMobile";
 const digitaleAktivierung="digitaleAktivierung";
 const digitaleOrientierung="digitaleOrientierung";
 const digitaleGrundlagen="digitaleGrundlagen";
 const DevOps="DevOps";
+const exiCoaching="exiCoaching";
+const bewerberCoaching="bewerberCoaching";
 
 //get paramater from URL and set the corresponding page
 function getParameterByName(name, url) {
@@ -54,7 +56,7 @@ const produktHTML=`
 const originalHTML = document.getElementById("page-top").innerHTML;
 
 function inhaltProdukt(produkt) {
-    console.log("produkt: "+produkt);
+    console.log("fair-sz redirect zu produkt: "+produkt);
     if (produkt===digitaleAktivierung) document.getElementById("page-top").innerHTML = produktHTML;
 
     //Redirect to https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/digitale-orientierung
@@ -65,6 +67,12 @@ function inhaltProdukt(produkt) {
 
     //Redirect to https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/softwareentwicklung-und-scrum-master
     if (produkt===DevOps) window.location.href = "https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/softwareentwicklung-und-scrum-master";
+
+    //Redirect to https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/softwareentwicklung-und-scrum-master
+    if (produkt===exiCoaching) window.location.href = "https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/existenzgr%C3%BCnder-coaching";
+
+    //Redirect to https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/softwareentwicklung-und-scrum-master
+    if (produkt===bewerberCoaching) window.location.href = "https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/bewerbercoaching";
 }
 
 

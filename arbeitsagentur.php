@@ -48,7 +48,7 @@ Eine weitere Aufgabe entsteht für uns durch die qualifizierte Überwachung und 
 </ul>
 <p >Das FAIR-Schulungszentrum bietet dir folgende Aus-Weiterbildungsangebote an:</p>
 				<ul>
-				<li><a href="docs/Flyer Softwareentwickler & Scrum Master.pdf"  target="new">Softwareentwickler & Scrum Master</a> (online & präsenz möglich)</li>
+				<li><a href="https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/softwareentwicklung-und-scrum-master"  target="new">Softwareentwickler & Scrum Master</a> (online & präsenz möglich)</li>
 				
 				</ul>
 
