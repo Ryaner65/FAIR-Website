@@ -40,9 +40,9 @@ include("include/header.php");
                 <div class="row">
                     <div class="col-lg-6" id="laptop_2">
 						<p style="font-size: 1.5em;">
-							In dem wir uns für jedem einzelnen Teilnehmer<br><br>
+							In dem wir uns für jeden einzelnen Teilnehmer<br><br>
 die Zeit nehmen, um ihm zuzuhören, <br><br>
-mit Ihm ausprobieren, Ihm Klarheit bringen</p>
+mit Ihm auszuprobieren, Ihm Klarheit zu bringen</p>
                         
 
                     </div>
@@ -64,7 +64,7 @@ mit Ihm ausprobieren, Ihm Klarheit bringen</p>
                     <div class="col-lg-6" id="laptop_5">
 						<p style="font-size: 1.5em;"><br><br>
 						 Unsere Erfahrenen <br><div style="padding-left: 10%; font-size: 1.5em;">Dozenten<br> Coaches<br> Berater</div><br><br>
-                                        <p style="font-size: 1.5em;">Alle samt erfahren <br><div style="padding-left: 10%; font-size: 1.5em;">in Ihrem</div><br> <b style="padding-left: 12%; font-size: 1.5em;">Tun</b>
+                                        <p style="font-size: 1.5em;">Sind allesamt erfahren <br><div style="padding-left: 10%; font-size: 1.5em;">in Ihrem</div><br> <b style="padding-left: 12%; font-size: 1.5em;">Tun</b>
 						</p>
                        
 

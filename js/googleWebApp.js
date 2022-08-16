@@ -1,8 +1,23 @@
+//wird nicht benutzt, nur im VS Code Editor verwenden zu können
+//life code Code ist in 
+//https://docs.google.com/spreadsheets/d/16ahd9LSAXbAEESvQFmdU5t5BlqM0Rq3QvHBtKA6_Ch4/edit#gid=709867733
+//Http Endpoint ist: 
+//https://script.google.com/macros/s/AKfycbw_faHfieWbT5DT27mqHUdBWWfWmvq-DT5sD-0UpnAZJ-X9FrpggoqAFVaHgSa2E1LG1g/exec
 
   console.log("Skript wird ausgeführt")
   window.aktiv=false;
   window.kalenderHTML="Kalender wird geladen ...";
   window.farbe=0
+
+  //HTML for email and phone Form
+  const emailFormHTML = `
+  <form action="https://script.google.com/macros/s/AKfycbw_faHfieWbT5DT27mqHUdBWWfWmvq-DT5sD-0UpnAZJ-X9FrpggoqAFVaHgSa2E1LG1g/exec" method="get">
+  <input type="hidden" name="action" value="email">
+  <input type="text" name="email" placeholder="Email">
+  <input type="text" name="phone" placeholder="Telefon">
+  <input type="submit" value="Senden">
+  </form>
+  `;
 
 
   function aktivieren(){
