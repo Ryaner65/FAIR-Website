@@ -1,7 +1,20 @@
-console.log("Version 0026")
+console.log("Version 0028")
 
-
+//get domain from URL
+function getDomain(url) {
+    var domain;
+    //find & remove protocol (http, ftp, etc.) and get domain
+    if (url.indexOf("://") > -1) {
+        domain = url.split('/')[2];
+    } else {
+        domain = url.split('/')[0];
+    }
+    return domain;
+}
+console.log(getDomain(window.location.href));
 //Inhalte for produkt "responsiveMobile" merken
+
+
 let homeInhalt = [];
 
 //Reihenfolge für Laptop und Mobile definieren
@@ -58,16 +71,23 @@ function getParameterByName(name, url) {
     return decodeURIComponent(results[2].replace(/\+/g, ' '));
 }
 
+
+
 let player_code = getParameterByName("player_code");
 if (!player_code) player_code = "unbekannt";
 console.log(player_code);
+
+let produkt = getParameterByName("produkt");
+
+
 
 
 //call REST API at https://script.google.com/macros/s/AKfycbxbCJLyP8PYbH4ty4TWtF-q0W6F1JSqI8wR2TTb_kOvuoTyNqQNkqifeHhDJi3ZTXKF/exec
 let url = "https://script.google.com/macros/s/AKfycbxbCJLyP8PYbH4ty4TWtF-q0W6F1JSqI8wR2TTb_kOvuoTyNqQNkqifeHhDJi3ZTXKF/exec";
 
 function neueSeite() {
-    console.log("neueSeite");
+    if (!produkt) return;
+    console.log("Produkteite gewünscht");
     fetch(url + "?produkt=" + window.location.href + "&player_code=" + player_code, {
         redirect: "follow",
         method: "GET",
