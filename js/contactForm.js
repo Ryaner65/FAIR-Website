@@ -1,6 +1,22 @@
 let googleUrl =
     "https://script.google.com/macros/s/AKfycbxgioTDTr8RzcSmU88mNpuGbrzkVh3xcW0sQKu0XqM2gTtjJfNbnYS3uzPs17AghJaiqQ/exec";
 
+//get domain from URL
+function getDomain(url) {
+  var domain;
+  //find & remove protocol (http, ftp, etc.) and get domain
+  if (url.indexOf("://") > -1) {
+      domain = url.split('/')[2];
+  } else {
+      domain = url.split('/')[0];
+  }
+  return domain;
+}
+console.log(getDomain(window.location.href));
+if (getDomain(window.location.href) == 'www.fair-schulungszentrum.de')googleUrl = "https://script.google.com/macros/s/AKfycbzSDS-WZy7w3EDApvE4hA1Nm10z7zA59lFUBGwRKbzLZHJ63gkTAAZsLQS1rHfrwqFE/exec";
+if (getDomain(window.location.href) == 'penguin.linux.test')googleUrl = "https://script.google.com/macros/s/AKfycby2N7o_z7KhlUnGia2t8Cy-6K89lcv3mHwFaXwr4nrsdb07HfIX37Bj9JSBXU-xrUg3/exec";
+
+
 if(getCookie('id') === ''){
   let ID = createNewID();
   setCookie('id', ID);

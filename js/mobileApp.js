@@ -1,17 +1,6 @@
 console.log("Version 0028")
 
-//get domain from URL
-function getDomain(url) {
-    var domain;
-    //find & remove protocol (http, ftp, etc.) and get domain
-    if (url.indexOf("://") > -1) {
-        domain = url.split('/')[2];
-    } else {
-        domain = url.split('/')[0];
-    }
-    return domain;
-}
-console.log(getDomain(window.location.href));
+
 //Inhalte for produkt "responsiveMobile" merken
 
 
