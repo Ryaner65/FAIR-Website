@@ -77,7 +77,7 @@ let url = "https://script.google.com/macros/s/AKfycbxbCJLyP8PYbH4ty4TWtF-q0W6F1J
 function neueSeite() {
     if (!produkt) return;
     console.log("Produkteite gewünscht");
-    fetch(url + "?produkt=" + window.location.href + "&player_code=" + player_code, {
+    fetch(url + "?produkt=" + produkt + "&player_code=" + player_code, {
         redirect: "follow",
         method: "GET",
         headers: {
