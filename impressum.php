@@ -6,32 +6,37 @@ include("include/header.php");
             <div class="container">
                 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 class="CDt4Ke zfr3Q" dir="ltr">Impressum</h1>
-<p class="CDt4Ke zfr3Q" dir="ltr">Angaben gem. &sect; 5 TMG:</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">FAIR Schulungszentrum.de</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Tieringerstra&szlig;e 31/1</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">72336 Balingen</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">&nbsp;</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Kontaktaufnahme:</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Telefon: 0173-1840661</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Fax:</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">E-Mail: info@fair-schulungszentrum.de</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">&nbsp;</p>
-<p class="CDt4Ke zfr3Q" dir="ltr"><strong>Umsatzsteuer-ID</strong></p>
-<p class="CDt4Ke zfr3Q" dir="ltr">&nbsp;</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Umsatzsteuer-Identifikationsnummer gem. &sect; 27 a Umsatzsteuergesetz:</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">DE 344238935</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">&nbsp;</p>
-<p class="CDt4Ke zfr3Q" dir="ltr"><strong>Haftungsausschluss &ndash; Disclaimer:</strong></p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Haftung f&uuml;r Inhalte</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Alle Inhalte unseres Internetauftritts wurden mit gr&ouml;&szlig;ter Sorgfalt und nach bestem Gewissen erstellt. F&uuml;r die Richtigkeit, Vollst&auml;ndigkeit und Aktualit&auml;t der Inhalte k&ouml;nnen wir jedoch keine Gew&auml;hr &uuml;bernehmen. Als Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &uuml;bermittelte oder gespeicherte fremde Informationen zu &uuml;berwachen oder nach Umst&auml;nden zu forschen, die auf eine rechtswidrige T&auml;tigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unber&uuml;hrt.</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Eine diesbez&uuml;gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten Rechtsverletzung m&ouml;glich. Bei Bekanntwerden von den o.g. Rechtsverletzungen werden wir diese Inhalte unverz&uuml;glich entfernen.</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Haftungsbeschr&auml;nkung f&uuml;r externe Links</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Unsere Webseite enth&auml;lt Links auf externe Webseiten Dritter. Auf die Inhalte dieser direkt oder indirekt verlinkten Webseiten haben wir keinen Einfluss. Daher k&ouml;nnen wir f&uuml;r die &bdquo;externen Links&ldquo; auch keine Gew&auml;hr auf Richtigkeit der Inhalte &uuml;bernehmen. F&uuml;r die Inhalte der externen Links sind die jeweilige Anbieter oder Betreiber (Urheber) der Seiten verantwortlich.</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Die externen Links wurden zum Zeitpunkt der Linksetzung auf eventuelle Rechtsverst&ouml;&szlig;e &uuml;berpr&uuml;ft und waren im Zeitpunkt der Linksetzung frei von rechtswidrigen Inhalten. Eine st&auml;ndige inhaltliche &Uuml;berpr&uuml;fung der externen Links ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht m&ouml;glich. Bei direkten oder indirekten Verlinkungen auf die Webseiten Dritter, die au&szlig;erhalb unseres Verantwortungsbereichs liegen, w&uuml;rde eine Haftungsverpflichtung ausschlie&szlig;lich in dem Fall nur bestehen, wenn wir von den Inhalten Kenntnis erlangen und es uns technisch m&ouml;glich und zumutbar w&auml;re, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Diese Haftungsausschlusserkl&auml;rung gilt auch innerhalb des eigenen Internetauftrittes &bdquo;<em>Name Ihrer Domain</em>&ldquo; gesetzten Links und Verweise von Fragestellern, Blogeintr&auml;gern, G&auml;sten des Diskussionsforums. F&uuml;r illegale, fehlerhafte oder unvollst&auml;ndige Inhalte und insbesondere f&uuml;r Sch&auml;den, die aus der Nutzung oder Nichtnutzung solcherart dargestellten Informationen entstehen, haftet allein der Diensteanbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der &uuml;ber Links auf die jeweilige Ver&ouml;ffentlichung lediglich verweist.</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Werden uns Rechtsverletzungen bekannt, werden die externen Links durch uns unverz&uuml;glich entfernt.</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Urheberrecht</p>
-<p class="CDt4Ke zfr3Q" dir="ltr">Die auf unserer Webseite ver&ouml;ffentlichen Inhalte und Werke unterliegen dem deutschen Urheberrecht (<a class="XqQF9c rXJpyf" href="http://www.google.com/url?q=http%3A%2F%2Fwww.gesetze-im-internet.de%2Fbundesrecht%2Furhg%2Fgesamt.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw28JumwSwMOD54F8EilMWQe" target="_blank" rel="noopener">http://www.gesetze-im-internet.de/bundesrecht/urhg/gesamt.pdf</a>) . Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung des geistigen Eigentums in ideeller und materieller Sicht des Urhebers au&szlig;erhalb der Grenzen des Urheberrechtes bed&uuml;rfen der vorherigen schriftlichen Zustimmung des jeweiligen Urhebers i.S.d. Urhebergesetzes (<a class="XqQF9c rXJpyf" href="http://www.google.com/url?q=http%3A%2F%2Fwww.gesetze-im-internet.de%2Fbundesrecht%2Furhg%2Fgesamt.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw28JumwSwMOD54F8EilMWQe" target="_blank" rel="noopener">http://www.gesetze-im-internet.de/bundesrecht/urhg/gesamt.pdf</a> ). Downloads und Kopien dieser Seite sind nur f&uuml;r den privaten und nicht kommerziellen Gebrauch erlaubt. Sind die Inhalte auf unserer Webseite nicht von uns erstellt wurden, sind die Urheberrechte Dritter zu beachten. Die Inhalte Dritter werden als solche kenntlich gemacht. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte unverz&uuml;glich entfernen.</p>
+<p dir="ltr">Angaben gem. § 5 TMG:</p>
+<p dir="ltr">FAIR Schulungszentrum.de</p>
+<p dir="ltr">Brühlwiesen 10</p>
+<p dir="ltr">71717 Beilstein</p>
+<p dir="ltr"><br>
+</p>
+<p dir="ltr">Kontaktaufnahme:</p>
+<p dir="ltr">Telefon: 07062-9786842</p>
+<p dir="ltr">E-Mail: info@fair-schulungszentrum.de</p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>Umsatzsteuer-ID</strong></p>
+<p dir="ltr"> </p>
+<p dir="ltr">Umsatzsteuer-Identifikationsnummer gem. § 27 a Umsatzsteuergesetz:</p>
+<p dir="ltr">DE 344238935</p>
+<p dir="ltr"><strong>Haftungsausschluss – Disclaimer:</strong></p>
+<p dir="ltr">Haftung für Inhalte</p>
+<p dir="ltr">Alle Inhalte unseres Internetauftritts wurden mit größter Sorgfalt und nach bestem Gewissen erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.</p>
+<p dir="ltr">Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von den o.g. Rechtsverletzungen werden wir diese Inhalte unverzüglich entfernen.</p>
+<p dir="ltr">Haftungsbeschränkung für externe Links</p>
+<p dir="ltr">Unsere Webseite enthält Links auf externe Webseiten Dritter. Auf die Inhalte dieser direkt oder indirekt verlinkten Webseiten haben wir keinen Einfluss. Daher können wir für die &bdquo;externen Links&ldquo; auch keine Gewähr auf Richtigkeit der Inhalte übernehmen. Für die Inhalte der externen Links sind die jeweilige Anbieter oder Betreiber (Urheber) der Seiten verantwortlich.</p>
+<p dir="ltr">Die externen Links wurden zum Zeitpunkt der Linksetzung auf eventuelle Rechtsverstöße überprüft und waren im Zeitpunkt der Linksetzung frei von rechtswidrigen Inhalten. Eine ständige inhaltliche Überprüfung der externen Links ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht möglich. Bei direkten oder indirekten Verlinkungen auf die Webseiten Dritter, die außerhalb unseres Verantwortungsbereichs liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall nur bestehen, wenn wir von den Inhalten Kenntnis erlangen und es uns technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.</p>
+<p dir="ltr">Diese Haftungsausschlusserklärung gilt auch innerhalb des eigenen Internetauftrittes &bdquo;<em>Name Ihrer Domain</em>&ldquo; gesetzten Links und Verweise von Fragestellern, Blogeinträgern, Gästen des Diskussionsforums. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargestellten Informationen entstehen, haftet allein der Diensteanbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist.</p>
+<p dir="ltr">Werden uns Rechtsverletzungen bekannt, werden die externen Links durch uns unverzüglich entfernt.</p>
+<p dir="ltr">Urheberrecht</p>
+<p dir="ltr">Die auf unserer Webseite veröffentlichen Inhalte und Werke unterliegen dem deutschen Urheberrecht (<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.gesetze-im-internet.de%2Fbundesrecht%2Furhg%2Fgesamt.pdf&sa=D&sntz=1&usg=AOvVaw28JumwSwMOD54F8EilMWQe" target="_blank">http://www.gesetze-im-internet.de/bundesrecht/urhg/gesamt.pdf</a>) . Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung des geistigen Eigentums in ideeller und materieller Sicht des Urhebers außerhalb der Grenzen des Urheberrechtes bedürfen der vorherigen schriftlichen Zustimmung des jeweiligen Urhebers i.S.d. Urhebergesetzes (<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.gesetze-im-internet.de%2Fbundesrecht%2Furhg%2Fgesamt.pdf&sa=D&sntz=1&usg=AOvVaw28JumwSwMOD54F8EilMWQe" target="_blank">http://www.gesetze-im-internet.de/bundesrecht/urhg/gesamt.pdf</a> ). Downloads und Kopien dieser Seite sind nur für den privaten und nicht kommerziellen Gebrauch erlaubt. Sind die Inhalte auf unserer Webseite nicht von uns erstellt wurden, sind die Urheberrechte Dritter zu beachten. Die Inhalte Dritter werden als solche kenntlich gemacht. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte unverzüglich entfernen.</p>
+<p dir="ltr"><br>
+</p>
+<p dir="ltr"><br>
+</p>
+<p dir="ltr">Dieses <a href="https://www.google.com/url?q=https%3A%2F%2Fjurarat.de%2Fmuster-impressum&sa=D&sntz=1&usg=AOvVaw1HiuUoh4deEfi_89lmSwWF" target="_blank">Impressum</a> wurde freundlicherweise von <a href="https://www.google.com/url?q=https%3A%2F%2Fjurarat.de%2F&sa=D&sntz=1&usg=AOvVaw0Fg2fTLRick2h1-JBGDPu8" target="_blank">jurarat.de</a> zur Verfügung gestellt.</p>
+<br>
 <p class="CDt4Ke zfr3Q" dir="ltr">Quellen:</p>
 <ul>
   <li>Hände (<a href="https://www.zukunftsinstitut.de/index.php?eID=tx_cms_showpic&file=691&md5=eee1061edbcc903de7c04b1163c2d1309b0ee7e8&parameters%5B0%5D=YToyOntzOjc6ImJvZHlUYWciO3M6NDE6Ijxib2R5IHN0eWxlPSJtYXJnaW46MDsg&parameters%5B1%5D=YmFja2dyb3VuZDojZmZmOyI%2BIjtzOjQ6IndyYXAiO3M6MTY4OiI8ZGl2IHN0eWxl&parameters%5B2%5D=PSJoZWlnaHQ6IDEwMCU7IG92ZXJmbG93OiBhdXRvOyB0ZXh0LWFsaWduOiBjZW50&parameters%5B3%5D=ZXI7Ij4KPGEgaHJlZj0iamF2YXNjcmlwdDpjbG9zZSgpOyIgdGl0bGU9IktsaWNr&parameters%5B4%5D=ZW4genVtIFNjaGxpZcOfZW4iIGFsdD0iS2xpY2tlbiB6dW0gU2NobGllw59lbiI%2B&parameters%5B5%5D=IHwgPC9hPgo8L2Rpdj4iO30%3D">hier</a>)</li>

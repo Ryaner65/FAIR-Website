@@ -1,4 +1,13 @@
 <?php include("include/header.php");?>        <!-- Services-->
+ <!-- Masthead-->
+        <header class="masthead">
+            <div class="container">
+                <div class="masthead-heading text-uppercase">Fördermöglichkeiten</div>
+                <!--<div class="masthead-subheading ">Wir bringen dich weiter</div>
+				<div class="masthead-subheading text-uppercase">Wir bringen dich ans Ziel</div>-->
+            </div>
+        </header>
+
         <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">

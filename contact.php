@@ -7,7 +7,7 @@ include("include/header.php");
 				<h1>Kontakt</h1>
 				<p>Sie erreichen uns über folgende Möglichkeiten:</p>
 				<p>
-Telefon: 0173-1840661<br>
+Telefon: 07062-9786842<br>
 E-Mail: <a href="mailto:info@fair-schulungszentrum.de">info@fair-schulungszentrum.de</a></p>
 			</div>
 				<p></p>

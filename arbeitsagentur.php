@@ -1,6 +1,15 @@
 <?php
 include("include/header.php");
 ?>
+ <!-- Masthead-->
+        <header class="masthead">
+            <div class="container">
+                <div class="masthead-heading text-uppercase">Förderung durch die Arbeitsagentur</div>
+                <!--<div class="masthead-subheading ">Wir bringen dich weiter</div>
+				<div class="masthead-subheading text-uppercase">Wir bringen dich ans Ziel</div>-->
+            </div>
+        </header>
+
 <!-- Services-->
         <section class="page-section">
             <div class="container">
@@ -48,7 +57,7 @@ Eine weitere Aufgabe entsteht für uns durch die qualifizierte Überwachung und 
 </ul>
 <p >Das FAIR-Schulungszentrum bietet dir folgende Aus-Weiterbildungsangebote an:</p>
 				<ul>
-				<li><a href="https://sites.google.com/fair-sz.com/fairschulungszentrum/bildungsangebote/softwareentwicklung-und-scrum-master"  target="new">Softwareentwickler & Scrum Master</a> (online & präsenz möglich)</li>
+				<li><a href="docs/Flyer Softwareentwickler & Scrum Master.pdf"  target="new">Softwareentwickler & Scrum Master</a> (online & präsenz möglich)</li>
 				
 				</ul>
 
