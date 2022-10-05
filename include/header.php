@@ -37,11 +37,4 @@
                 </div>
             </div>
         </nav>
-        <!-- Masthead-->
-        <header class="masthead">
-            <div class="container">
-                <div class="masthead-heading text-uppercase">Herzlich Willkommen bei FAIR Schulungs&shy;zentrum</div>
-                <div class="masthead-subheading ">Wir bringen dich weiter</div>
-				<div class="masthead-subheading text-uppercase">Wir bringen dich ans Ziel</div>
-            </div>
-        </header>
+       
